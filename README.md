@@ -29,3 +29,4 @@
     width="900"
   />
 </p>
+<img src="./anime.svg" width="100%" alt="Night Animation">
