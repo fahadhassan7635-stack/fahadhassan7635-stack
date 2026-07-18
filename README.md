@@ -30,21 +30,6 @@
   />
 </p>
 
-
-.cloud-wrap{
-    position:absolute;
-    top:0;
-    left:0;
-    width:200%;
-    display:flex;
-    animation:scrollClouds 80s linear infinite;
-}
-
-.cloud-wrap img{
-    width:50%;
-    flex-shrink:0;
-}
-
 @keyframes scrollClouds{
     from{
         transform:translateX(0);
