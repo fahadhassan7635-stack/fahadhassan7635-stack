@@ -10,22 +10,14 @@
 
 <img src="https://skillicons.dev/icons?i=vercel" />
 
-          💻 C
-       ◉◉◉◉◉◉◉◉○○
-            80%
+# 🛠 Tech Stack
 
-        🐍 Python
-       ◉◉◉◉○○○○○○
-            45%
+| Technology | Level |
+|------------|:-----:|
+| 💻 C | ████████░░ 80% |
+| 🐍 Python | ████░░░░░░ 45% |
+| 🌐 HTML | █████░░░░░ 55% |
+| 🎨 CSS | ████░░░░░░ 40% |
+| ▲ Vercel | ███████░░░ 70% |
 
-         🌐 HTML
-       ◉◉◉◉◉○○○○○
-            55%
-
-         🎨 CSS
-       ◉◉◉◉○○○○○○
-            40%
-
-        ▲ Vercel
-       ◉◉◉◉◉◉◉○○○
-            70%
+> 📚 Currently learning Python, HTML/CSS and building web projects.
