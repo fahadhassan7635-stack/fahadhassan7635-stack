@@ -24,7 +24,7 @@
 
 <p align="center">
   <img
-    src="https://github.com/user-attachments/assets/24f20cd0-ccd2-458e-b4b8-6f08d2004fb9"
+    src="https://github.com/user-attachments/assets/8d439100-e051-41a7-83da-5bc7c786ad7b"
     alt="Image"
     width="900"
   />
