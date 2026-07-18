@@ -29,12 +29,3 @@
     width="900"
   />
 </p>
-
-@keyframes scrollClouds{
-    from{
-        transform:translateX(0);
-    }
-    to{
-        transform:translateX(-50%);
-    }
-}
