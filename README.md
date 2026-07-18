@@ -23,6 +23,9 @@
 > 📚 Currently learning Python, HTML/CSS and building web projects.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a02bba4f-d8bd-4777-b839-19e84055e010" width="800" alt="Demo GIF">
+  <img
+    src="https://github.com/user-attachments/assets/24f20cd0-ccd2-458e-b4b8-6f08d2004fb9"
+    alt="Image"
+    width="900"
+  />
 </p>
-<img width="498" height="280" alt="Image" src="https://github.com/user-attachments/assets/24f20cd0-ccd2-458e-b4b8-6f08d2004fb9" />
