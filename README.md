@@ -9,3 +9,15 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 <img src="https://skillicons.dev/icons?i=vercel" />
+
+# 🛠 Tech Stack
+
+| Technology | Level |
+|------------|:-----:|
+| 💻 C | ████████░░ 80% |
+| 🐍 Python | ████░░░░░░ 45% |
+| 🌐 HTML | █████░░░░░ 55% |
+| 🎨 CSS | ████░░░░░░ 40% |
+| ▲ Vercel | ███████░░░ 70% |
+
+> 📚 Currently learning Python, HTML/CSS and building web projects.
